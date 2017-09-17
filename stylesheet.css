@@ -1,0 +1,38 @@
+body {
+	background-color: #b7d1c4;
+}
+
+h1 {
+	color: blue;
+	font-family: Verdana;
+}
+
+p {
+	color: black;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+.ptype {
+	font-size: 16px;
+	font-family: serif;
+}
+
+#different {
+	color: red;
+}
+#differentcris {
+	color: green;
+	font-size: 20px;
+	font-family: arial;
+}
+.imgstyle {
+	height: 500px
+}
+.prettyfont {
+	font: Helvetica;
+	font-size: 20px;
+	font-style: bold;
+	color: #5c2187;
+}
+
